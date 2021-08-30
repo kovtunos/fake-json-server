@@ -1,1 +1,13 @@
-{}
+{
+    "fields": {
+        "numberList": "",
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "company": "",
+        "type": "local",
+        "purpose": "",
+        "confirm": false
+    }
+}
